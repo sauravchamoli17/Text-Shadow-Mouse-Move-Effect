@@ -1,0 +1,32 @@
+html{
+    font-size:17px;
+    margin:0;
+    padding:0;
+}
+@font-face{
+    src: url('./Calibre-Regular.ttf');
+    font-family: Calibre;
+}
+body{
+    background: linear-gradient(-170deg, #2376ae 0%, #c16ecf 100%) no-repeat;
+    height:100vh;
+    font-family: Calibre;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin:0;
+    padding:0;
+}
+.hero{
+    cursor: pointer;
+    transform: rotate(-10deg);
+}
+h1{
+    color:rgb(255, 255, 255);
+    font-size:7.5rem;
+    text-transform: uppercase;
+    text-align: center;
+    text-shadow: 10px 10px 0 rgba(0, 0, 0, 0.2);
+    margin:0;
+}
