@@ -1,5 +1,5 @@
 # Text-Shadow-Mouse-Move-Effect
 
-## Live Version : [See here](https://sauravchamoli17.github.io/Custom-Video-Player/)
+## Live Version : [See here](https://sauravchamoli17.github.io/Text-Shadow-Mouse-Move-Effect/)
 
 ![Preview](preview.png)
